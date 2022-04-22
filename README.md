@@ -1,6 +1,6 @@
 - 👋 Yo, I’m @trongphuc0401
 - 👀 I’m interested in relax
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on FPT software
 - 📫 How to reach me https://www.facebook.com/nguyentrongphuc.2003/
 
