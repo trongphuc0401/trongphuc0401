@@ -1,0 +1,14 @@
+HTML Output - Useful Tips
+
+You cannot be sure how HTML will be displayed. Large or small screens, and resized windows will create different results.
+
+With HTML, you cannot change the output by adding extra spaces or extra lines in your HTML code.
+
+The browser will remove extra spaces and extra lines when the page is displayed. Any number of lines count as one line, and any number of spaces count as one space.
+
+HTML Tag Reference
+
+W3Schools' tag reference contains additional information about HTML elements and their attributes.
+
+- <p> : This HTML tag let you defines a paragraph in your HTML document (Tag type: Container tag)
+- <br /> : You can inserts a single line break (Tag type: Empty tag)

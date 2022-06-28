@@ -1,0 +1,32 @@
+﻿Phân loại phản ứng hóa học trong hóa vô cơ
+
+Có thể chia các phản ứng hóa học trong hóa vô cơ thành hai loại là phản ứng không có sự thay đổi số ôxy hóa và phản ứng có sự thay đổi số ôxy hóa.
+
+Phản ứng không thay đổi số ôxy hoá
+
+Phản ứng kết hợp: là phản ứng tạo thành một chất mới từ hai chất khác nhau. 
+Thí dụ: CaO + CO2 = CaCO3
+
+Phản ứng phân hủy: là trong đó 1 chất bị phân tích thành 2 hay nhiều chất khác nhau. 
+Thí dụ: CaCO3 = CaO + CO2
+
+Phản ứng thế: là phản ứng giữa một kim loại mạnh với một muối của kim loại yếu hơn, trong đó nguyên tử kim loại mạnh này thay thế kim loại yếu. 
+Thí dụ: Fe + CuCl2 = FeCl2 + Cu
+
+Phản ứng trao đổi trong dung dịch các chất điện ly là phản ứng giữa các ion dương (cation) với các ion âm (anion) tạo thành các chất kết tủa, chất dễ bay hơi và các chất điện ly yếu. 
+Thí dụ: AgNO3 + NaCl = NaNO3 + AgCl
+
+Phản ứng trao đổi bao gồm các phản ứng sau:
+
+Phản ứng trung hòa giữa axit và bazơ. 
+Thí dụ: NaOH + HCl = NaCl + H2O
+
+Phản ứng thủy phân là phản ứng của một muối (trong thành phần có gốc axit yếu hay bazơ yếu) với nước trong đó gốc axit yếu kết hợp với ion H+ tạo thành axit yếu này và gốc bazơ yếu kết hợp với ion OH- tạo thành bazơ yếu này.
+
+Phản ứng có thay đổi số ôxy hoá
+
+Phản ứng ôxy hóa - khử là phản ứng trong đó có sự trao đổi electron giữa một chất khử (chất cho electron) với một chất ôxy hóa (chất nhận electron).
+
+Thí dụ 1: 2 H2 + O2 = 2H2O
+
+Thí dụ 2: Fe + 6 HNO3 = Fe(NO3)3 + 3 H2O + 3 NO2

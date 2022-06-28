@@ -1,0 +1,25 @@
+﻿HTML – Ngôn ngữ trình bày dữ liệu trên trình duyệt
+(Thời lượng: 7 Tiết)
+
+TỔNG QUAN VỀ HTML
+Những nguyên tắc cơ bản khi xây dựng tài liệu HTML
+Cấu trúc một tài liệu HTML
+<html>
+<head>
+<title>
+<body>
+HTML Elements
+HTML Element Syntax
+Sử dụng các thành phần HTML lồng nhau
+TRÌNH BÀY VÀ ĐỊNH DẠNG VĂN BẢN
+Trình bày văn bản
+Tag <p>
+Tag <h1>, <h2>, ... <h6>
+Tag <br />
+Tag <pre>
+Tag <hr />
+Định dạng văn bản
+Tag <b>, <strong>
+Tag <i>, <em>
+Tag <small>
+Tag <sup>, <sub>

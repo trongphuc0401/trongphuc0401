@@ -1,0 +1,22 @@
+﻿Các hằng đẳng thức
+
+1 - Bình phương của một tổng:
+(a + b)2 = a2 + 2ab + b2
+
+2 - Bình phương của một hiệu:
+(a - b)2 = a2 - 2ab + b2
+
+3 - Hiệu hai bình phương:
+a2 - b2 = (a - b)(a + b)
+
+4 - Lập phương của một tổng:
+(a + b)3 = a3 + 3a2b + 3ab2 + b3
+
+5 - Lập phương của một hiệu:
+(a - b)3 = a3 - 3a2b + 3ab2 - b3
+
+6 - Tổng hai lập phương:
+a3 + b3 = (a + b)(a2 - ab + b2)
+
+7 - Hiệu hai lập phương:
+a3 - b3 = (a - b)(a2 + ab + b2)
