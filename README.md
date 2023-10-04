@@ -6,11 +6,9 @@
 
 - 🔭 I’m currently working on **Nguyen Tat Thanh University**
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 👯 I’m looking to collaborate on **Github**
-
-- 🤝 I’m looking for help with **CTE**
 
 - 👨‍💻 All of my projects are available at [https://github.com/trongphuc0401?tab=repositories](https://github.com/trongphuc0401?tab=repositories)
 
