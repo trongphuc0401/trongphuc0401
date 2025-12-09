@@ -22,7 +22,7 @@
 const phuc = {
   role: "Shopify Developer 👨‍💻",
   location: "Vietnam 🇻🇳",
-  currentProject: "Kefoff Coffee Shop ☕",
+  currentProject: "Kefoff The Coffee☕",
   
   skills: {
     shopifyTheme: ["Liquid", "Dawn Theme", "Custom Sections", "Metafields"],
